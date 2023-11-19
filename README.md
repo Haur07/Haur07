@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**Haur07/Haur07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Olá pessoal ✌️ Yeun Haur Kang aqui!</h1>
+<h3 align="left">Sobre mim:</h3>
+<p>
+Atualmente me encontro cursando Ciência da Computação na Universidade de Passo Fundo (UPF), 4°nivel. No momento, a linguagem que mais possuo esperiência é o C++, a linguagem responsável pela maior parte da realização das atividades no curso, além de ser uma das linguagens que mais gosto de utilizar.
+</p>
+<h3 align="left">Linguagens/Ferramentas já utilizadas:</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+  <li>React</li>
+  <li>NextJS</li>
+  <li>Python</li>
+  <li>C/C++</li>
+  <li>Assembly</li>
+  <li>PL/SQL</li>
+  <li>Java</li>
+  <li>Spring Boot</li>
+  <li>Kotlin</li>
+</ul>
