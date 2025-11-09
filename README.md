@@ -2,20 +2,20 @@
   <img src="https://komarev.com/ghpvc/?username=bernardovvieira&label=Visualizações+do+Perfil&color=1BA0D7&style=flat" alt="Visualizações" />
   <h1 style="font-size: 28px; margin: 10px 0;">
     👋 Hi, I'm Yeun Haur Kang!<br>
-    💻 Computer Scientist at University of Passo Fundo
+    💻 Computer Scientist at University of Passo Fundo (UPF)
   </h1>
 </div>
 
 <h1 style="font-size: 28px; margin: 10px 0;"><strong>Education</strong></h1>
 <ul>
   <li><strong>Computer Science</strong> (<i>February 2022 - Present</i>)</li>
-  Bachelor's degree, <strong>University of Passo Fundo</strong>, Passo Fundo, Rio Grande do Sul, Brazil - 8th semester
+  Bachelor's degree, <strong>University of Passo Fundo (UPF)</strong>, Passo Fundo, Rio Grande do Sul, Brazil - 8th semester
 </ul>
 
 <h1 style="font-size: 28px; margin: 10px 0;"><strong>Experience</strong></h1>
 <ul>
   <li><strong>Application Developer</strong> (<i>August 2024 - Present</i>)</li>
-  Development of an experiment design tool based on machine learning and artificial inteligence techniques at Mosaico research group at University of Passo Fundo.
+  Development of an experiment design tool based on machine learning and artificial inteligence techniques at Mosaico research group at University of Passo Fundo (UPF).
 </ul>
 
 <h1 style="font-size: 28px; margin: 10px 0;">GitHub Stats</h1>
