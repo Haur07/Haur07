@@ -14,7 +14,7 @@
 
 <h1 style="font-size: 28px; margin: 10px 0;"><strong>Experience</strong></h1>
 <ul>
-  <li><strong>Application Developer</strong> (<i>August 2024 - Present</i>)</li>
+  <li><strong>Research and Development Scientist</strong> (<i>August 2024 - Present</i>)</li>
   Development of an experiment design tool based on machine learning and artificial inteligence techniques at Mosaico research group at University of Passo Fundo (UPF).
 </ul>
 
