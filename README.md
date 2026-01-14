@@ -1,35 +1,43 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bernardovvieira&label=Visualizações+do+Perfil&color=1BA0D7&style=flat" alt="Visualizações" />
-  <h1 style="font-size: 28px; margin: 10px 0;">
-    👋 Hi, I'm Yeun Haur Kang!<br>
-    💻 Computer Scientist at University of Passo Fundo (UPF)
-  </h1>
-</div>
+# 👋 Hi, I'm **Yeun Haur Kang!**
 
-<h1 style="font-size: 28px; margin: 10px 0;"><strong>Education</strong></h1>
-<ul>
-  <li><strong>Computer Science</strong> (<i>February 2022 - Present</i>)</li>
-  Bachelor's degree, <strong>University of Passo Fundo (UPF)</strong>, Passo Fundo, Rio Grande do Sul, Brazil - 8th semester
-</ul>
+**💻 Bachelor's Degree in Computer Science**<br>
+**📍 Soledade, Rio Grande do Sul, Brazil**
 
-<h1 style="font-size: 28px; margin: 10px 0;"><strong>Experience</strong></h1>
-<ul>
-  <li><strong>Research and Development Scientist</strong> (<i>August 2024 - Present</i>)</li>
-  Development of an experiment design tool based on machine learning and artificial inteligence techniques at Mosaico research group at University of Passo Fundo (UPF).
-</ul>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/yeun-haur-kang-20730b220)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat)](mailto:yh20030816@gmail.com@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Haur07&label=Profile+Views&color=1BA0D7&style=flat)](https://github.com/Haur07)
 
-<h1 style="font-size: 28px; margin: 10px 0;">GitHub Stats</h1>
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=haur07&show_icons=true&theme=tokyonight&hide_title=false">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haur07&layout=compact&theme=tokyonight&hide=html,css">
-</div>
+---
 
-<h1 style="font-size: 28px; margin: 10px 0;"><strong>Links</strong></h1>
-<div align="left">
-  <a href="mailto:yh20030816@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/yeun-haur-kang-20730b220">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</div>
+### 🎓 Education
+
+- **Computer Science** (*February 2022 - December 2025*)<br>
+Bachelor's degree, **University of Passo Fundo (UPF)**, Passo Fundo, Rio Grande do Sul, Brazil
+
+---
+
+### 💼 Experience
+
+- **Undergraduate Researcher** (*August 2024 - December 2025*)<br>
+Undergraduate initiative project. Developed an experimental design tool based on Deep Learning and Computer Vision techniques at Mosaico research group for low and medium carbon steels microstructural analysis.
+
+---
+
+### 💡 Skills
+
+- Data Analysis
+- Deep Learning
+- Python
+- Numpy
+- Pandas
+- TensorFlow
+- FastAPI
+- C/C++
+- Git
+
+---
+
+### 📫 Contact
+
+📧 **Email:** [yh20030816@gmail.com](mailto:yh20030816@gmail.com)<br>
+💼 **LinkedIn:** [linkedin.com/in/yeun-haur-kang-20730b220](https://www.linkedin.com/in/yeun-haur-kang-20730b220)
